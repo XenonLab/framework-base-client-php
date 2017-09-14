@@ -9,7 +9,7 @@
         "guzzle"
     ],
     "homepage": "http://www.xe.com",
-    "license": "proprietary",
+    "license": "MPL-2.0",
     "require": {
         "php": ">=5.6.0",
         "guzzlehttp/guzzle": "^6.1"
